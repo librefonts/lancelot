@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GSUB>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=2 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="DFLT"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="0"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="1">
+        <ScriptTag value="latn"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="0"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=1 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="titl"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=1 -->
+      <Lookup index="0">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="A" out="A.alt1"/>
+          <Substitution in="B" out="B.alt1"/>
+          <Substitution in="C" out="C.alt1"/>
+          <Substitution in="D" out="D.alt1"/>
+          <Substitution in="E" out="E.alt1"/>
+          <Substitution in="F" out="F.alt1"/>
+          <Substitution in="G" out="G.alt1"/>
+          <Substitution in="H" out="H.alt1"/>
+          <Substitution in="I" out="I.alt1"/>
+          <Substitution in="J" out="J.alt1"/>
+          <Substitution in="K" out="K.alt1"/>
+          <Substitution in="L" out="L.alt1"/>
+          <Substitution in="M" out="M.alt1"/>
+          <Substitution in="N" out="N.alt1"/>
+          <Substitution in="O" out="O.alt1"/>
+          <Substitution in="P" out="P.alt1"/>
+          <Substitution in="Q" out="Q.alt1"/>
+          <Substitution in="R" out="R.alt1"/>
+          <Substitution in="S" out="S.alt1"/>
+          <Substitution in="T" out="T.alt1"/>
+          <Substitution in="U" out="U.alt1"/>
+          <Substitution in="V" out="V.alt1"/>
+          <Substitution in="W" out="W.alt1"/>
+          <Substitution in="X" out="X.alt1"/>
+          <Substitution in="Y" out="Y.alt1"/>
+          <Substitution in="Z" out="Z.alt1"/>
+        </SingleSubst>
+      </Lookup>
+    </LookupList>
+  </GSUB>
+
+</ttFont>

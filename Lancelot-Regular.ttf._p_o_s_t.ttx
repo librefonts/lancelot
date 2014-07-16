@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <post>
+    <formatType value="2.0"/>
+    <italicAngle value="0.0"/>
+    <underlinePosition value="-25"/>
+    <underlineThickness value="50"/>
+    <isFixedPitch value="0"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+    <psNames>
+      <!-- This file uses unique glyph names based on the information
+           found in the 'post' table. Since these names might not be unique,
+           we have to invent artificial names in case of clashes. In order to
+           be able to retain the original information, we need a name to
+           ps name mapping for those cases where they differ. That's what
+           you see below.
+            -->
+    </psNames>
+    <extraNames>
+      <!-- following are the name that are not taken from the standard Mac glyph order -->
+      <psName name="A.alt1"/>
+      <psName name="B.alt1"/>
+      <psName name="C.alt1"/>
+      <psName name="D.alt1"/>
+      <psName name="E.alt1"/>
+      <psName name="F.alt1"/>
+      <psName name="G.alt1"/>
+      <psName name="H.alt1"/>
+      <psName name="I.alt1"/>
+      <psName name="J.alt1"/>
+      <psName name="K.alt1"/>
+      <psName name="L.alt1"/>
+      <psName name="M.alt1"/>
+      <psName name="N.alt1"/>
+      <psName name="O.alt1"/>
+      <psName name="P.alt1"/>
+      <psName name="Q.alt1"/>
+      <psName name="R.alt1"/>
+      <psName name="S.alt1"/>
+      <psName name="T.alt1"/>
+      <psName name="U.alt1"/>
+      <psName name="V.alt1"/>
+      <psName name="W.alt1"/>
+      <psName name="X.alt1"/>
+      <psName name="Y.alt1"/>
+      <psName name="Z.alt1"/>
+      <psName name="macron"/>
+      <psName name="twoinferior"/>
+      <psName name="fourinferior"/>
+      <psName name="periodcentered"/>
+    </extraNames>
+  </post>
+
+</ttFont>
