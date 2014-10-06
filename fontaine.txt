@@ -1,0 +1,37 @@
+Fonts
+  Font:
+    Common name: Lancelot
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2011 by Marion Kadi. All rights reserved. Licenced under SIL OFL v1.1
+    License: SIL openfont License 1.1
+    License url: http://scripts.sil.org/OFL
+    Version: 1.004
+    Vendor: Marion Kadi, Anton Koovit
+    Vendor url: http://www.marion.korkork.com/
+    Designer: Marion Kadi
+    Glyph count: 247
+    Character count: 219
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 94
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
